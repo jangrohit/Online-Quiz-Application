@@ -1,2 +1,0 @@
-/* This Pen is best viewable in Google Chrome.
- */
